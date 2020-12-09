@@ -1,35 +1,35 @@
 [{
     "name": "Design And Aanalysis Of Algo",
-    "uid" : "daa"
+    "uid" : "kcs503"
 },{
     "name" : "Human Computer Interface",
-    "uid" : "daa"
+    "uid" : "kcs058"
 },
 {
-    "name": "Design And Aanalysis Of Algo",
-    "uid" : "daa"
+    "name": "Constitution of India",
+    "uid" : "knc501"
 },{
-    "name" : "Human Computer Interface",
-    "uid" : "daa"
+    "name" : "Database management System",
+    "uid" : "kcs501"
 },
 {
-    "name": "Design And Aanalysis Of Algo",
-    "uid" : "daa"
+    "name": "Compiler design",
+    "uid" : "kcs502"
 },{
-    "name" : "Human Computer Interface",
-    "uid" : "daa"
+    "name" : "Computer Graphics",
+    "uid" : "Kcs 053"
 },
 {
-    "name": "Design And Aanalysis Of Algo",
-    "uid" : "daa"
+    "name": "Software Engineering",
+    "uid" : "kcs601"
 },{
-    "name" : "Human Computer Interface",
-    "uid" : "daa"
+    "name" : "Web Technology",
+    "uid" : "kcs602"
 },
 {
-    "name": "Design And Aanalysis Of Algo",
-    "uid" : "daa"
+    "name": "Computer Network",
+    "uid" : "kcs603"
 },{
-    "name" : "Human Computer Interface",
-    "uid" : "hci"
+    "name" : "Big Data",
+    "uid" : "kcs061"
 }]
