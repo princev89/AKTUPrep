@@ -1,0 +1,66 @@
+[
+    {
+        "no": "1",
+        "unitName": "Introduction",
+        "topic": [
+            "Algorithms",
+            " Analyzing Algorithms",
+            " Complexity of Algorithms",
+            " Growth of Functions",
+            " Performance Measurements",
+            " Sorting and Order Statistics - Shell Sort",
+            " Quick Sort",
+            " Merge Sort",
+            " Heap Sort",
+            " Comparison of Sorting Algorithms",
+            " Sorting in Linear Time"
+        ]
+    },
+    {
+        "no": "2",
+        "unitName": "Advanced Data Structures",
+        "topic": [
+            " Red-Black Trees",
+            " B – Trees",
+            " Binomial Heaps",
+            " Fibonacci Heaps",
+            "Tries",
+            " Skip List"
+        ]
+    },
+    {
+        "no": "3",
+        "unitName": "Divide and Conquer & Greedy Methods",
+        "topic": [
+            " Divide and Conquer with Examples Such as Sorting",
+            " Matrix Multiplication",
+            " Convex Hull and Searching. Greedy Methods with Examples Such as Optimal Reliability Allocation",
+            " Knapsack",
+            " Minimum Spanning Trees – Prim’s and Kruskal’s Algorithms",
+            " Single Source Shortest Paths - Dijkstra’s and Bellman Ford Algorithms."
+        ]
+    },
+    {
+        "no": "4",
+        "unitName": "Dynamic Programming",
+        "topic": [
+            "Dynamic Programming with Examples Such as Knapsack. All Pair Shortest Paths – Warshal’s and Floyd’s Algorithms",
+            " Resource Allocation Problem. Backtracking",
+            " Branch and Bound with Examples Such as Travelling Salesman Problem",
+            " Graph Coloring",
+            " n-Queen Problem",
+            " Hamiltonian Cycles and Sum of Subsets."
+        ]
+    },
+    {
+        "no": "5",
+        "unitName": "Dynamic Programmings",
+        "topic": [
+            "Algebraic Computation",
+            " Fast Fourier Transform",
+            " String Matching",
+            " Theory of NPCompleteness",
+            " Approximation Algorithms and Randomized Algorithms"
+        ]
+    }
+]
