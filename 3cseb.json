@@ -1,55 +1,13 @@
-{
-    "Monday" : [
-        {
-        "subject_name" : "Subjecname",
-        "teacher_name" : "Teacher Name",
-        "subject_code" : "Subjecname",
-        "start_time" : "Subjecname",
-        "end_time" : "Subjecname"
-        }
-    ],
-    "Tuesday" : [
-        {
-        "subject_name" : "Subjecname",
-        "teacher_name" : "Teacher Name",
-        "subject_code" : "Subjecname",
-        "start_time" : "Subjecname",
-        "end_time" : "Subjecname"
-        }
-    ],
-    "Wednesday" : [
-        {
-        "subject_name" : "Subjecname",
-        "teacher_name" : "Teacher Name",
-        "subject_code" : "Subjecname",
-        "start_time" : "Subjecname",
-        "end_time" : "Subjecname"
-        }
-    ],
-    "Thursday" : [
-        {
-        "subject_name" : "Subjecname",
-        "teacher_name" : "Teacher Name",
-        "subject_code" : "Subjecname",
-        "start_time" : "Subjecname",
-        "end_time" : "Subjecname"
-        }
-    ],"Friday" : [
-        {
-        "subject_name" : "Subjecname",
-        "teacher_name" : "Teacher Name",
-        "subject_code" : "Subjecname",
-        "start_time" : "Subjecname",
-        "end_time" : "Subjecname"
-        }
-    ],
-    "Saturday" : [
-        {
-        "subject_name" : "Subjecname",
-        "teacher_name" : "Teacher Name",
-        "subject_code" : "Subjecname",
-        "start_time" : "Subjecname",
-        "end_time" : "Subjecname"
-        }
-    ]
-}
+[{
+    "subject_name": "Design And Aanalysis Of Algo",
+    "subject_id" : "KCS503",
+    "start_time" : "10:00",
+    "end_time" : "10:40",
+    "teacher_name" : "Teacher Name"
+},{
+    "name" : "Human Computer Interface",
+    "subject_id" : "KCS058",
+    "start_time" : "10:00",
+    "end_time" : "10:40",
+    "teacher_name" : "Teacher Name"
+}]
