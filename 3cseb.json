@@ -1,0 +1,55 @@
+{
+    "Monday" : [
+        {
+        "subject_name" : "Subjecname",
+        "teacher_name" : "Teacher Name",
+        "subject_code" : "Subjecname",
+        "start_time" : "Subjecname",
+        "end_time" : "Subjecname"
+        }
+    ],
+    "Tuesday" : [
+        {
+        "subject_name" : "Subjecname",
+        "teacher_name" : "Teacher Name",
+        "subject_code" : "Subjecname",
+        "start_time" : "Subjecname",
+        "end_time" : "Subjecname"
+        }
+    ],
+    "Wednesday" : [
+        {
+        "subject_name" : "Subjecname",
+        "teacher_name" : "Teacher Name",
+        "subject_code" : "Subjecname",
+        "start_time" : "Subjecname",
+        "end_time" : "Subjecname"
+        }
+    ],
+    "Thursday" : [
+        {
+        "subject_name" : "Subjecname",
+        "teacher_name" : "Teacher Name",
+        "subject_code" : "Subjecname",
+        "start_time" : "Subjecname",
+        "end_time" : "Subjecname"
+        }
+    ],"Friday" : [
+        {
+        "subject_name" : "Subjecname",
+        "teacher_name" : "Teacher Name",
+        "subject_code" : "Subjecname",
+        "start_time" : "Subjecname",
+        "end_time" : "Subjecname"
+        }
+    ],
+    "Saturday" : [
+        {
+        "subject_name" : "Subjecname",
+        "teacher_name" : "Teacher Name",
+        "subject_code" : "Subjecname",
+        "start_time" : "Subjecname",
+        "end_time" : "Subjecname"
+        }
+    ]
+}
