@@ -10,4 +10,17 @@
     "start_time" : "10:00",
     "end_time" : "10:40",
     "teacher_name" : "Teacher Name"
+},
+{
+    "subject_name": "Design And Aanalysis Of Algo",
+    "subject_id" : "KCS503",
+    "start_time" : "10:00",
+    "end_time" : "10:40",
+    "teacher_name" : "Teacher Name"
+},{
+    "name" : "Human Computer Interface",
+    "subject_id" : "KCS058",
+    "start_time" : "10:00",
+    "end_time" : "10:40",
+    "teacher_name" : "Teacher Name"
 }]
